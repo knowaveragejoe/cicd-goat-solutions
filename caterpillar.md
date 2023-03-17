@@ -1,4 +1,4 @@
-As the `alice` user, have write access to the Caterpillar repository, but are unable to merge pull requests into the main branch.
+As our `thealice` git user, we have write access to the Caterpillar repository, but are unable to merge pull requests into the main branch.
 
 There are two jenkins pipelines for the project, `wonderland-caterpillar-test` and `wonderland-caterpillar-prod`. Test is triggered by any pull request, main is only triggered by successful merges into main.
 
